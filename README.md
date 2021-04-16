@@ -9,4 +9,4 @@ O contole das tarefas desse projeto
 :package: nova funcionalidade
 :up: atualização
 :beetle: correção de bug
-:checked_flag: release
+:checkered_flag: release
