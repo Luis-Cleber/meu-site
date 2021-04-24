@@ -1,4 +1,8 @@
 
+html{
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: Nunito, sans-serif;
     color: #1c1c1c;
@@ -183,6 +187,22 @@ footer a {
             text-decoration: none;
             color: #00ffff;
 
+}
+
+#link-topo{
+    position: fixed;
+    bottom: 5rem;
+    width: 5rem;
+    right: 3rem;
+
+    background: #0052D4; 
+    background: -webkit-linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);
+    background: linear-gradient(to left, #6FB1FC, #4364F7, #0052D4); 
+    display: flex;
+    justify-content: center;
+    color: #f0f0f0;
+    border-radius: .3rem;
+    box-shadow: rgb(0, 0, 255)1rem 0.6rem #000009;
 }
 
 @media screen and (min-width: 768px) {
